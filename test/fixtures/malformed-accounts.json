@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "cursor": 0,
+  "accounts": [
+    {
+      "id": "qa-alpha",
+      "token": "",
+      "enabled": "yes"
+    }
+  ]
+}
